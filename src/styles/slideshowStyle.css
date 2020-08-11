@@ -1,0 +1,18 @@
+.cd33{
+  height: 90vh;
+  background-size: cover; 
+}
+.slide-container{
+  width: 100vw;
+  z-index: 1000;
+}
+slide{
+  overflow: none;
+}
+.indicator{
+  visibility: none;
+  padding: 100px;
+}
+*{
+  overflow: none;
+}
